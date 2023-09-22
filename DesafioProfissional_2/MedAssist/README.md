@@ -26,5 +26,5 @@ SistemaAtendimento
  é o ponto central do sistema;
  Mantem listas de pacientes e médicos registrados;
  Os voids adicionarPaciente, adicionarMedico e realizarAtendimento permitem adicionar pacientes
- e médicos ao sistema e realizar atendimentos, respectivamente. Durante um atendimento, verifica-se se o paciente tem prioridade com base na interface GrupoPrioritario,
+ e médicos ao sistema e realizar atendimentos, respectivamente. Durante um atendimento, verifica-se se o paciente tem prioridade com base na interface GrupoPrioritario
  em seguida, inicia e encerra a videoconferência;
